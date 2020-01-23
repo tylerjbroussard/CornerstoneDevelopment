@@ -27,3 +27,7 @@ https://help.csod.com/help/csod_0/Content/Preferences/Security_Preferences/NavTa
 https://help.csod.com/help/csod_0/Content/Preferences/System_Preferences/Display_Preferences/Display_Preferences.htm?tocpath=General%20Features%20(Core)%7CPreferences%7CCore%20Preferences%7CDisplay%20Preferences%7CTheme%20and%20Logo%7C_____0
 
 https://help.csod.com/help/csod_0/Content/Preferences/System_Preferences/Display_Preferences/Contemporary_Theme_Overview.htm?tocpath=General%20Features%20(Core)%7CPreferences%7CCore%20Preferences%7CDisplay%20Preferences%7CTheme%20and%20Logo%7C_____1
+
+HTML Widget
+
+https://help.csod.com/help/csod_0/Content/Custom_Page_Builder/Widget_Settings/HTML_Widget.htm
