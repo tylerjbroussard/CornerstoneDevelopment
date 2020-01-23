@@ -31,3 +31,7 @@ https://help.csod.com/help/csod_0/Content/Preferences/System_Preferences/Display
 HTML Widget
 
 https://help.csod.com/help/csod_0/Content/Custom_Page_Builder/Widget_Settings/HTML_Widget.htm
+
+Whitelisted Customizable elements
+
+https://help.csod.com/help/csod_0/Content/User/Home/Whitelisted_Customizable_Elements.htm
