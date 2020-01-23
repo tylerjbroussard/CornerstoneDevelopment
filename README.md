@@ -1,2 +1,21 @@
 # CornerstoneDevelopment
 Repo for CSOD development efforts
+
+
+Links:
+------
+CSOD training: 
+
+https://www.youtube.com/watch?v=ga0jb7yY64g
+
+https://www.youtube.com/watch?v=FtLXjxtjLCM
+
+https://www.youtube.com/watch?v=Dj8RNewXn7g
+
+Stack Overflow questions
+
+https://stackoverflow.com/questions/51840941/how-to-add-custom-css-styles-in-cornerstone-l-m-s
+
+https://help.csod.com/help/csod_0/Content/0_Whats_New/201/Core/jQuery_Library_Upgraded/jQuery_Library_Upgraded_with_May_201.htm?Highlight=css
+
+https://help.csod.com/help/csod_0/Content/Preferences/Security_Preferences/NavTabsAndLinks/Navigation_Tabs_and_Links_-_Edit_Link.htm?Highlight=customize%20user%20interface
