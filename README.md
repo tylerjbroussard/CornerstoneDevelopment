@@ -4,6 +4,10 @@ Repo for CSOD development efforts
 
 Links:
 ------
+ODATA for querying CSOD:
+
+https://www.odata.org/
+
 CSOD training: 
 
 https://www.youtube.com/watch?v=ga0jb7yY64g
